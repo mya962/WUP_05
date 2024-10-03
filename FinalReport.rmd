@@ -71,3 +71,5 @@ There was 3 statistical tests ran and each test gave us a probability with the r
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I first graphed the results of a group that is only a female and the results showed us whether the drug were given helped to prevent aids. The bar graphed then showed us that the female given the drug has a higher chance of getting aids than the females that were given the placebo. I then ran a numerical graph and the result showed me that the female that got aids were a higher 20% than the female that didn't get aids I then also ran 3 statistical tests that told me the probability of a female getting aids from the drug that was given in the test. We then concluded from this test that the drug did not work with females.
